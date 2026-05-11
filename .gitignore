@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore local data files if they are too large
+*.csv
+*.xlsx
+
+# Ignore any local virtual environments
+.venv/
