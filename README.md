@@ -14,11 +14,10 @@ The NYC restaurant scene is more competitive than ever. For FoodHub, the challen
 
 ## 💡 Key Insights (Conclusions)
 1. **The Weekday Tax:** Latency is 100% an external transit issue. Kitchen prep remains flat (~27m), but delivery times spike on weekdays.
-2. **The Quality-Time Paradox:** High-cost orders ($25+) delivered *too fast* (<40m) actually see **lower ratings (4.1)**. Customers link "waiting" with "hand-crafted quality."
+2. **The Quality-Time Paradox:** High-cost orders ($25+) delivered *too fast* (<40m) actually see **lower ratings ( see 4.2.2)**. Customers link "waiting" with "hand-crafted quality."
 3. **Revenue Matrix:** American/Japanese are volume "Cash Cows," while French/Thai are high-margin "Boutique" leaders.
 4. **Operational Resilience:** Top brands like **Shake Shack** and **TAO** maintain efficiency even during massive weekend surges.
-5. **Rating Integrity:** The 38% "Not Given" ratings are missing at random; their logistics mirror 5-star orders, proving the 4.34 platform rating is honest.
-
+5. **Rating Integrity:** The 38% "Not Given" ratings are missing at random; their logistics mirror 5-star orders, proving the 4.34 platform rating is honest. (I’m especially proud of the deeper analysis I did here in **4.2.6** regarding the consistency of unrated orders.)
 ## 🛠️ Strategic Recommendations
 ### 1. Revenue & Growth
 * **The Premium Pivot:** Launch weekend "Luxury Windows" for High-AOV cuisines (Thai/French).
@@ -36,3 +35,8 @@ The NYC restaurant scene is more competitive than ever. For FoodHub, the challen
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 * **Tools:** Jupyter Notebook, GitHub
+
+## Author's Note
+I have been coding in Python for about a month now and this is my first project. Spent countless nights scratching my head and also experiencing Eureka! moments. Some insights even came to me in my dreams. It was truly a roller coaster ride. I truly appreciate any feedback, comments or suggestions you may have!
+ 
+Cheers :)
